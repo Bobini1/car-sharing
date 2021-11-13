@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f8rZhHptLu63bq/g59VGV7dFguUASMRi7xi9SDwiErQ=",
+  "Source": "CarSharingBackend",
+  "BasePath": "_content/CarSharingBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
